@@ -1,3 +1,5 @@
+-- je vous aime les freres slarty , nial , izuna sweysie , dz
+
 local function sendNotification(message)
     SetNotificationTextEntry("STRING")
     AddTextComponentString(message)
