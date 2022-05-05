@@ -1,4 +1,4 @@
--- je vous aime les freres slarty , nial , izuna sweysie , dz
+-- je vous aime les freres slarty , nial , izuna sweysie 
 
 local function sendNotification(message)
     SetNotificationTextEntry("STRING")
